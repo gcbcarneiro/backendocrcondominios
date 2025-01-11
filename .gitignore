@@ -1,0 +1,13 @@
+# Ignorar a pasta do ambiente virtual
+venv/
+
+# Arquivos de configuração locais
+config.json
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+*.log
+
+# Sistema operacional
+.DS_Store
